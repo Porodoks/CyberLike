@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b18653701654d2140a8e37d6607d3561, type: 3}
+  m_Name: PresetsHolder
+  m_EditorClassIdentifier: 
+  _basements:
+  - {fileID: 6848146018560597085, guid: 3bb91e0093ea61546a793890aa888825, type: 3}
+  - {fileID: 7603246021844480713, guid: 3967b4be826e22640b7cfff354adeb10, type: 3}
+  SpanLeftTile: {fileID: 11400000, guid: 7dee347835c66d449949343f295f81f5, type: 2}
+  SpanRightTile: {fileID: 11400000, guid: 54bd9d0de149e104e986a8719f6e3f84, type: 2}
+  SpanCenterTile: {fileID: 11400000, guid: 3d13cd1f870c3f54eb7fc4afaeeafe27, type: 2}
+  LedderRegularTile: {fileID: 11400000, guid: 0e0c2f82be638ce4c884737da23ff7c5, type: 2}
+  LedderLastTile: {fileID: 11400000, guid: 95ee89035e98d8f41be44550846307f5, type: 2}
+  Windows:
+  - {fileID: 8160719841308425146, guid: d6536564c47ce6b45b332c58ae93c03b, type: 3}
+  - {fileID: 1715393452291655955, guid: cbd4cb8e98100894b8362f5ad22a09d3, type: 3}
+  - {fileID: 8596553418437245124, guid: 55f51772711234440b845fa9f5fd06b6, type: 3}
+  A_WindowGenerationStartPoint: {fileID: 11400000, guid: 6d62ab2336f3ee64c8bfa49f36fa387b, type: 2}

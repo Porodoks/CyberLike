@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d386824509ac1f4c81545204b22f369, type: 3}
+  m_Name: MovementData
+  m_EditorClassIdentifier: 
+  _moveSpeed: 3
+  _runSpeed: 9
+  _dashSpeed: 9
+  _maxFallSpeed: -20
+  _accelerationTimeAirborne: 0.2
+  _accelerationTimeGrounded: 0.1
+  _jumpHeight: 3
+  _timeToJumpApex: 0.4
+  _wallClipTime: 1
+  _wallJumpLeapVector: {x: 0, y: 0}
+  _wallJumpOffVector: {x: 0, y: 0}
+  _wallJumpClimbVector: {x: 0, y: 0}
